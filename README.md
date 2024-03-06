@@ -14,3 +14,6 @@ This notebook presents an implementation of the 2-D convolution operation develo
 
  all variables are square matrices, and the size 
  of the kernel matrix can also be an even number.
+
+# 1. Import Statements
+import numpy as np
